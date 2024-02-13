@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.imgbly.com/ib/SCp1pIIho8"
+    <img alt="No destiny will break me" src="https://www.imgbly.com/ib/SCp1pIIho8">
+</picture>
+
 ### Greetings!
 
 
