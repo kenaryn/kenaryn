@@ -12,4 +12,4 @@ I liked very much constraint Logic programming and array (and its derived concat
 
 
 [![Aurélien Plazzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenaryn&show_icons=true&theme=radical)](https://github.com/kenaryn/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenaryn&langs_count=8&layout=donut)](https://github.com/kenaryn/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenaryn&langs_count=8&layout=donut)](https://github.com/kenaryn/github-readme-stats)
