@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.imgbly.com/ib/SCp1pIIho8"
-    <img alt="No destiny will break me" src="https://www.imgbly.com/ib/SCp1pIIho8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.imgbly.com/ib/SCp1pIIho8.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.imgbly.com/ib/SCp1pIIho8.jpg">
+    <img alt="No destiny will break me" src="https://www.imgbly.com/ib/SCp1pIIho8.jpg">
 </picture>
-[url=https://www.imgbly.com/ib/SCp1pIIho8][img]https://www.imgbly.com/ib/SCp1pIIho8.jpg[/img][/url]
 
 ### Greetings!
 
