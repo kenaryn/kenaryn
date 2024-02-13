@@ -8,7 +8,7 @@
 - 📫 How to reach me: aurelien.plazzotta@tutanota.com
 - ⚡ Fun fact: I briefly tried Fleng, OCaml, Haskell, Julia, Scryer-prolog, Factor, Zig, Python, V, Nial and Austral and I am still a noob! 
 
-I liked very much constraint Logic programming and array (and its derived concatenative) paradigm. Object-oriented is finally being overwhelmed, toppled, vainquished and terminated :D
+I like very much Constraint Logic Programming and array (and its derived concatenative) paradigm. Object-oriented is finally being overwhelmed, toppled, vainquished and terminated :D
 
 
 ![Aurélien Plazzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenaryn&show_icons=true&theme=radical)
