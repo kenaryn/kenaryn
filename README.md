@@ -11,5 +11,5 @@
 I liked very much constraint Logic programming and array (and its derived concatenative) paradigm. Object-oriented is finally being overwhelmed, toppled, vainquished and terminated :D
 
 
-[![Aurélien Plazzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenaryn&show_icons=true&theme=radical)](https://github.com/kenaryn/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenaryn&langs_count=9&layout=donut&theme=radical)]
+[![Aurélien Plazzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenaryn&show_icons=true&theme=radical)
+&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenaryn&langs_count=9&layout=donut&theme=radical)
