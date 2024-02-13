@@ -9,3 +9,6 @@
 - ⚡ Fun fact: I briefly tried Fleng, OCaml, Haskell, Julia, Scryer-prolog, Factor, Zig, Python, V and Nial and I am still a noob! 
 
 I liked very much constraint Logic programming and array (and its derived concatenative) paradigm. Object-oriented is finally being overwhelmed, toppled, vainquished and terminated :D
+
+
+[![Aurélien Plazzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenaryn)](https://github.com/kenaryn/github-readme-stats)
