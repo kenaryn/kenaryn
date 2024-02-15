@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Steel REPL
 - 🤔 I’m looking for help with Deno, to set up a working stack to implement a professional website entirely in JavaScript (and Stylus)
 - 📫 How to reach me: aurelien.plazzotta@tutanota.com
-- ⚡ Fun fact: I briefly tried Fleng, OCaml, Purescript, Haskell, Julia, Scryer-prolog, Factor, Zig, Python, V, Nial and Austral and I am still a noob! 
+- ⚡ Fun fact: I briefly tried Fleng, OCaml, Purescript, Haskell, Julia, Scryer-prolog, Factor, Zig, Python, V, Nial, Mercury and Austral and I am still a noob! 
 
 I like very much Constraint Logic Programming and array (and its derived concatenative) paradigm. Object-oriented is finally being overwhelmed, toppled, vainquished and terminated :D
 
