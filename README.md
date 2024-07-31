@@ -18,4 +18,4 @@ I like very much Constraint Logic Programming and array (and its derived concate
 
 
 ![Aurélien Plazzotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenaryn&show_icons=true&theme=radical)
-&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenaryn&langs_count=10&layout=donut&theme=radical)
+&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenaryn&langs_count=11&layout=donut&theme=radical)
