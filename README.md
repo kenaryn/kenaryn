@@ -8,7 +8,7 @@
 
 
 - 🔭 I am currently looking for a employer to undertake a third-year vocational training focused on systems programming.
-- 🌱 I am learning Typescript, and _in fine_, functional paradigm.
+- 🌱 I am learning Java 24 and functional paradigm wherever it can be substituded to object-oriented base code.
 - 📫 How to reach me: aurelien.plazzotta@tutanota.com
 - ⚡ Fun fact: I briefly tried Fleng, OCaml, Purescript, Haskell, Julia, **Scryer-prolog**, Factor, Zig, Python, V, Nial, Mercury, Austral, Rust and **Flix** and I am still a noob! 
 
